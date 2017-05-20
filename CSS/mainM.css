@@ -1,0 +1,121 @@
+body {
+	background-color: #d9d9d9; 
+	font-family: sans-serif;
+}
+
+.full_page {
+	width: 1200px;
+	height: 900px;
+	background-color: #eb1616;
+	margin-top: 10px;
+}
+
+.box {
+    border: 2px solid #000000;
+    background-color: cornsilk;
+}
+
+#top_bar {
+    width: 850px;
+    height: 60px;
+    margin: 0 auto 0 auto;
+}
+
+#logo {
+	width: 23%;
+	margin-left: 5px;
+	margin-top: -15px;
+	float: left;
+}
+
+.bartext {
+    font-size: 18px;
+    margin: auto;
+}
+
+#lin {
+    margin-right: 10px;
+    float:right;
+    font-weight: lighter;
+    color: #595959;
+}
+
+#upbar {
+    margin-right: 10px;
+    float:right;
+    font-weight: lighter;
+    color: #595959;
+}
+
+#sup {
+    margin-right: 10px;
+    float:right;
+}
+
+#main_content {
+    width: 850px;
+    height: 820px;
+    border: 2px solid #000000;
+    background-color: cornsilk;
+    margin: 0 auto 0 auto;
+    box-shadow: 2px 2px 3px #777777;
+}
+
+.form_area {
+    position: relative;
+    width: 560px;
+    height: 600px;
+    margin: 10px 10px 0 10px;
+    border-color: black;
+    background-color: crimson;
+    float: left;
+}
+
+.note_area {
+    width: 200px;
+    height: 500px;
+    margin: 10px 10px 0 10px;
+    background-color: rgba(244, 226, 13, 0.65);
+    float: right;
+}
+
+#dcrpt {
+    font-size: 24px;
+    font: arial;
+    letter-spacing: .2em;
+    padding-left: 90px;
+}
+
+.f_style {
+    font-size: 20px;
+    font: arial;
+    padding-left: 90px; 
+}
+
+input {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 380px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 30px;
+    padding-left: 15px;
+}
+
+input #no_bot {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 380px;
+    margin-top: 20px;
+    height: 30px;
+    padding-left: 15px;
+}
+
+#phone_style {
+    margin-bottom: 0px;
+}
+
+#sml_txt {
+    font-size: 12px;
+    margin-top: -30px;
+}
