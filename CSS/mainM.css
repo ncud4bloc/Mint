@@ -3,7 +3,7 @@ body {
 	font-family: sans-serif;
 }
 
-.full_page {
+#full_page {
 	width: 1200px;
 	height: 900px;
 	background-color: #eb1616;
